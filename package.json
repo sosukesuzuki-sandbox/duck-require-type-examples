@@ -1,0 +1,17 @@
+{
+  "name": "duck-require-type-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "duck build:js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cybozu/duck": "^0.33.0",
+    "google-closure-compiler": "^20210505.0.0",
+    "google-closure-library": "^20210406.0.0"
+  }
+}

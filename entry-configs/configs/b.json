@@ -1,0 +1,6 @@
+{
+  "id": "b",
+  "output-file": "../build/b.js",
+  "inherits": "../base.json",
+  "inputs": ["../src/b.js"]
+}

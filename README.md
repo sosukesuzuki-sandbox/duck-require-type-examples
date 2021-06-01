@@ -1,0 +1,1 @@
+# duck-require-type-examples
